@@ -1,0 +1,9 @@
+bio.TXT - access and education of synthetic biology
+
+bio.TXT is a series of scripts that are capable of accessing the partsregistry database, parse it, and commit into functional genetic constructs. 
+It also has capability to import specific sequences from external databases in biobrick format and use it as component in building the user's own 
+biological system.
+
+-coming soon: SBOL export ability
+
+
